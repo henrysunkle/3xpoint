@@ -1,3 +1,3 @@
 # 3xpoint
 
-This is module read me file
+This is 3xpoint read me file
